@@ -1,0 +1,11 @@
+[FC-Group:COMPANY] profit allocated:200.00
+[Client-1:CLIENT] profit allocated:0.00
+[C1-Node-A:NODE] profit allocated:25.00
+[C1-Node-A-1:NODE] profit allocated:12.50
+[C1-Node-A-2:NODE] profit allocated:12.50
+[C1-Node-B:NODE] profit allocated:50.00
+[Client-2:CLIENT] profit allocated:0.00
+[C2-Node-A:NODE] profit allocated:25.00
+[C2-Node-A-1:NODE] profit allocated:12.50
+[C2-Node-A-2:NODE] profit allocated:12.50
+[C2-Node-B:NODE] profit allocated:50.00
